@@ -1,0 +1,188 @@
+./project3  -p 5 -w 7 -f 11 < input.txt
+Person 0: will wander for 3 sec. on floor 0
+Person 0: will wander for 3 sec. on floor 2
+Person 0: will wander for 4 sec. on floor 5
+
+Person 1: will wander for 3 sec. on floor 0
+Person 1: will wander for 2 sec. on floor 3
+Person 1: will wander for 3 sec. on floor 7
+
+Person 2: will wander for 4 sec. on floor 0
+Person 2: will wander for 6 sec. on floor 5
+Person 2: will wander for 5 sec. on floor 8
+
+Person 3: will wander for 5 sec. on floor 0
+Person 3: will wander for 5 sec. on floor 7
+Person 3: will wander for 6 sec. on floor 9
+
+Person 4: will wander for 3 sec. on floor 0
+Person 4: will wander for 3 sec. on floor 6
+Person 4: will wander for 2 sec. on floor 8
+
+						Person 0: Taking elevator to floor 0
+						Person 1: Taking elevator to floor 0
+						Person 2: Taking elevator to floor 0
+						Person 3: Taking elevator to floor 0
+						Person 4: Taking elevator to floor 0
+Elevator: Opening on floor 0
+
+						Person 0: Wandering on floor 0 for 3 sec.
+						Person 1: Wandering on floor 0 for 3 sec.
+						Person 3: Wandering on floor 0 for 5 sec.
+						Person 2: Wandering on floor 0 for 4 sec.
+						Person 4: Wandering on floor 0 for 3 sec.
+
+Elevator: Heading Down!
+Number of people (P) waiting on each floor (F)
+[F0 P5] [F1 P0] [F2 P0] [F3 P0] 
+[F4 P0] [F5 P0] [F6 P0] [F7 P0] 
+[F8 P0] [F9 P0] [F10 P0] 
+
+
+Elevator: Opening on floor 0
+
+						Person 3: Entering elevator on floor 0
+						Person 3: Taking elevator to floor 7
+						Person 0: Entering elevator on floor 0
+						Person 0: Taking elevator to floor 2
+						Person 1: Entering elevator on floor 0
+						Person 1: Taking elevator to floor 3
+						Person 2: Entering elevator on floor 0
+						Person 2: Taking elevator to floor 5
+						Person 4: Entering elevator on floor 0
+						Person 4: Taking elevator to floor 6
+
+Elevator: Going Up!
+Number of people (P) waiting on each floor (F)
+[F0 P0] [F1 P0] [F2 P1] [F3 P1] 
+[F4 P0] [F5 P1] [F6 P1] [F7 P1] 
+[F8 P0] [F9 P0] [F10 P0] 
+
+
+Elevator: Opening on floor 2
+
+						Person 0: Wandering on floor 2 for 3 sec.
+Elevator: Opening on floor 3
+
+						Person 1: Wandering on floor 3 for 2 sec.
+Elevator: Opening on floor 5
+
+						Person 2: Wandering on floor 5 for 6 sec.
+Elevator: Opening on floor 6
+
+						Person 4: Wandering on floor 6 for 3 sec.
+Elevator: Opening on floor 7
+
+						Person 3: Wandering on floor 7 for 5 sec.
+
+Elevator: Heading Down!
+Number of people (P) waiting on each floor (F)
+[F0 P0] [F1 P0] [F2 P1] [F3 P1] 
+[F4 P0] [F5 P1] [F6 P1] [F7 P1] 
+[F8 P0] [F9 P0] [F10 P0] 
+
+
+Elevator: Opening on floor 7
+
+						Person 3: Entering elevator on floor 7
+						Person 3: Taking elevator to floor 9
+Elevator: Opening on floor 6
+
+						Person 4: Entering elevator on floor 6
+						Person 4: Taking elevator to floor 8
+Elevator: Opening on floor 5
+
+						Person 2: Entering elevator on floor 5
+						Person 2: Taking elevator to floor 8
+Elevator: Opening on floor 3
+
+						Person 1: Entering elevator on floor 3
+						Person 1: Taking elevator to floor 7
+Elevator: Opening on floor 2
+
+						Person 0: Entering elevator on floor 2
+						Person 0: Taking elevator to floor 5
+
+Elevator: Going Up!
+Number of people (P) waiting on each floor (F)
+[F0 P0] [F1 P0] [F2 P0] [F3 P0] 
+[F4 P0] [F5 P1] [F6 P0] [F7 P1] 
+[F8 P2] [F9 P1] [F10 P0] 
+
+
+Elevator: Opening on floor 5
+
+						Person 0: Wandering on floor 5 for 4 sec.
+Elevator: Opening on floor 7
+
+						Person 1: Wandering on floor 7 for 3 sec.
+Elevator: Opening on floor 8
+
+						Person 4: Wandering on floor 8 for 2 sec.
+						Person 2: Wandering on floor 8 for 5 sec.
+Elevator: Opening on floor 9
+
+						Person 3: Wandering on floor 9 for 6 sec.
+
+Elevator: Heading Down!
+Number of people (P) waiting on each floor (F)
+[F0 P0] [F1 P0] [F2 P0] [F3 P0] 
+[F4 P0] [F5 P1] [F6 P0] [F7 P1] 
+[F8 P2] [F9 P1] [F10 P0] 
+
+
+Elevator: Opening on floor 9
+
+Elevator: Opening on floor 8
+
+						Person 2: Entering elevator on floor 8
+						Person 2: Ready to leave the system 
+						Person 4: Entering elevator on floor 8
+						Person 4: Ready to leave the system 
+Elevator: Opening on floor 7
+
+						Person 1: Entering elevator on floor 7
+						Person 1: Ready to leave the system 
+Elevator: Opening on floor 5
+
+						Person 0: Entering elevator on floor 5
+						Person 0: Ready to leave the system 
+Elevator: Opening on floor 0
+
+						Person 0: "I'm outta here"
+						Person 1: "I'm outta here"
+						Person 2: "I'm outta here"
+						Person 4: "I'm outta here"
+
+Elevator: Going Up!
+Number of people (P) waiting on each floor (F)
+[F0 P0] [F1 P0] [F2 P0] [F3 P0] 
+[F4 P0] [F5 P0] [F6 P0] [F7 P0] 
+[F8 P0] [F9 P1] [F10 P0] 
+
+
+Elevator: Opening on floor 9
+
+						Person 3: Entering elevator on floor 9
+						Person 3: Ready to leave the system 
+
+Elevator: Heading Down!
+Number of people (P) waiting on each floor (F)
+[F0 P0] [F1 P0] [F2 P0] [F3 P0] 
+[F4 P0] [F5 P0] [F6 P0] [F7 P0] 
+[F8 P0] [F9 P0] [F10 P0] 
+
+
+Elevator: Opening on floor 0
+
+						Person 3: "I'm outta here"
+
+Elevator: Going Up!
+Number of people (P) waiting on each floor (F)
+[F0 P0] [F1 P0] [F2 P0] [F3 P0] 
+[F4 P0] [F5 P0] [F6 P0] [F7 P0] 
+[F8 P0] [F9 P0] [F10 P0] 
+
+
+Elevator: "All patrons have left the system and so shall I"
+
